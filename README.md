@@ -26,7 +26,7 @@ Make sure you have Python 3.x installed on your system. You can download Python 
 ### Steps to Install
 1. Clone this repository to your local machine:
    ```bash
-   git clone 
+   git clone https://github.com/angela-mera/Real-Time-Chat-Client-Server-Model.git
    ```
 2. Navigate to the project directory:
    ```bash
