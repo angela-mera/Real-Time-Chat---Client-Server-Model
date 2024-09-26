@@ -30,7 +30,7 @@ Make sure you have Python 3.x installed on your system. You can download Python 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd 
+   cd Real-Time-Chat-Client-Server-Model/Chat
    ```
 
 3. Install any required Python libraries if not available:
@@ -40,7 +40,7 @@ Make sure you have Python 3.x installed on your system. You can download Python 
      ```
    - For Windows users, Tkinter is typically installed with Python by default. If you encounter any issues, you can refer to the [Tkinter documentation](https://docs.python.org/3/library/tkinter.html).
 
-4. Now the project is ready to run!
+4. Now the project is ready to run
 
 ## Usage
 
